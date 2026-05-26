@@ -1,0 +1,16 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+    background-color: #222;
+}
+
+th {
+    background-color: cyan;
+    color: black;
+}
+
+td, th {
+    border: 1px solid white;
+    padding: 10px;
+}
